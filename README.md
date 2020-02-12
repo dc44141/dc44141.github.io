@@ -52,7 +52,7 @@ The event is entirely free and is not sponsored so there is no food or drink pro
 
 The venue has a menu. We will work on adding a photo of it as a brief Google did not turn it up online :D
 
-### That is a university building, I am old, can I attend?
+### That is a university building, I am not a student, can I attend?
 
 Yes. Yes you can. The union building does not require an NUS card or anything to get in. If anyone questions you mumble "Glasgow Defcon" and try to look awkward and you'll get passed on inside. 
 
