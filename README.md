@@ -4,7 +4,7 @@ We are the Glasgow Defcon Chapter, and you are very welcome.
 
 We generally meet on the **first Tuesday** of every month at the Glasgow Caledonian University (GCU) Student's Association building. Which is building number 5 on the [campus map](https://www.gcu.ac.uk/theuniversity/howtofindus/campusmap/). Sometimes the date may slip but that typically only happens around Christmas or January. 
 
-![Map showing Student's Association Building](images/map-to-dc44141.png "Map showing Student's Association Building" =250x)
+![Map showing Student's Association Building =250x](images/map-to-dc44141.png "Map showing Student's Association Building" )
 
 ## Next Event
 
