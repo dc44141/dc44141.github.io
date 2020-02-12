@@ -60,4 +60,4 @@ Yes. Yes you can. The union building does not require an NUS card or anything to
 
 According to the GCU website the entire campus is wheelchair accessible. I appreciate you might laugh and say "folks always say that and it is big fat lies". To my eyes the building can be approached by a ramp, the door has a level floor for entry, and the event is on the ground floor. 
 
-Stay tuned as it we will go on to make a video showing exactly what to expect from getting to the venue in the near future.
+Stay tuned as we will go on to make a video showing exactly what to expect from getting to the venue in the near future.
