@@ -1,8 +1,11 @@
 <style>
 /* hack by https://twitter.com/KathrynMcBain */
-h1{
-  Margin-left: 40px !important ; 
+@media only screen and (max-width: 600px) {
+  h1{
+    Margin-left: 40px !important ; 
+  }
 }
+
 </style>  
 
 ## Welcome to DC44141
