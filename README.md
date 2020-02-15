@@ -1,3 +1,10 @@
+<style>
+/* hack by https://twitter.com/KathrynMcBain */
+h1{
+  Margin-left: 40px !important ; 
+}
+</style>  
+
 ## Welcome to DC44141
 
 We are the Glasgow Defcon Chapter, and you are very welcome.
