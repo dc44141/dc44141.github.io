@@ -2,7 +2,7 @@
 /* hack by https://twitter.com/KathrynMcBain */
 @media only screen and (max-width: 600px) {
   h1{
-    Margin-left: 40px !important ; 
+    Margin-left: 1px !important ; 
   }
 }
 
