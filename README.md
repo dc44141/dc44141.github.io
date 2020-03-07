@@ -64,7 +64,7 @@ Also PLEASE help us? We don't know what we are doing. If you want to help you de
 
 The event is entirely free and is not sponsored so there is no food or drink provided. 
 
-The venue has a menu. We will work on adding a photo of it as a brief Google did not turn it up online :D
+The venue has a [food menu](https://github.com/dc44141/dc44141.github.io/raw/master/images/food-menu.jpg) and a [hot beverage menu](https://github.com/dc44141/dc44141.github.io/raw/master/images/coffee-menu.jpg). Food stops being served at 7pm so if you plan on eating get in early and get your order in. 
 
 ### That is a university building, I am not a student, can I attend?
 
