@@ -31,11 +31,11 @@ Details for the next event:
 
 We have two talks:
 
-Speaker: 
+Speaker: Andy Gill a.k.a @ZephrFish on Twitter
 
-Topic: 
+Topic: Red Teaming Introduction
 
-Summary: 
+Summary: tbc
 
 Speaker: Paul Ritchie a.k.a @Cornerpirate on Twitter
 
