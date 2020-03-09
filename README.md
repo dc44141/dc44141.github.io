@@ -24,16 +24,25 @@ Details for the next event:
 
 | Key       | Value           |
 | ------------- |:-------------:|
-| Date:      | Tuesday 3rd of March |
+| Date:      | Tuesday 7th of April |
 | Location:      | Ground Floor, GCU Student's Association Building.     |
 | Address: | 70 Cowcaddens Rd, Glasgow G4 0BA      |
 | Time: | 6:30pm (doors open), talks (7pm)     |
 
-Speaker: Paul Ritchie of Pentest Ltd - a.k.a [cornerpirate](https://twitter.com/cornerpirate).
+We have two talks:
 
-Topic: More advanced SQL Injection.
+Speaker: 
 
-Summary: In February Paul provided an introduction to SQL Injection covering how to find and exploit error based issues to conduct data extraction. This month will include blind SQL Injection and getting a shell (allowing operating system command execution). 
+Topic: 
+
+Summary: 
+
+Speaker: Paul Ritchie a.k.a @Cornerpirate on Twitter
+
+Topic: Cross-Site Scripting (XSS)
+
+Summary: tbc
+
 
 **If you would like to speak as well then you absolutely can. Ask [@dc44141](https://twitter.com/dc44141). We also accept unannounced talks where you just get up without fanfare and have had a few do it that way in the heat of the moment.**
 
