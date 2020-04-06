@@ -10,13 +10,9 @@
 
 ## Welcome to DC44141
 
-We are the Glasgow Defcon Chapter, and you are very welcome.
+We are the Glasgow Defcon Chapter, and you are very welcome. 
 
-**Temporary Update: Due to COVID-19 lockdown we will temporarily be streaming events. Using twitch:
-
-https://www.twitch.tv/ZephrPhish
-
-**
+**Temporary Update: Due to COVID-19 lockdown we will temporarily be streaming events. Using twitch. This is great because it means the wider community can join in.**
 
 <!--
 We meet on the **first Tuesday** of every month at the Glasgow Caledonian University (GCU) Student's Association building. The following map shows which building that is in relation to Cowcaddens Road:
@@ -33,9 +29,10 @@ Details for the next event:
 | Key       | Value           |
 | ------------- |:-------------:|
 | Date:      | Tuesday 7th of April |
-| Location:      | Ground Floor, GCU Student's Association Building.     |
-| Address: | 70 Cowcaddens Rd, Glasgow G4 0BA      |
-| Time: | 6:30pm (doors open), talks (7pm)     |
+| Location:      | 
+https://www.twitch.tv/ZephrPhish     |
+<!--| Address: | 70 Cowcaddens Rd, Glasgow G4 0BA      |-->
+| Time: | 6:30pm (lobby open), talks (7pm)     |
 
 We have two talks:
 
@@ -44,9 +41,6 @@ Topic: Red Teaming Introduction
 
 Speaker: Paul Morrison a.k.a @InfoSec_Paul_M on Twitter
 Topic: Blue Team: Phishing Detection
-
-Summary: tbc
-
 
 **If you would like to speak as well then you absolutely can. Ask [@dc44141](https://twitter.com/dc44141). We also accept unannounced talks where you just get up without fanfare and have had a few do it that way in the heat of the moment.**
 
