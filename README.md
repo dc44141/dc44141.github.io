@@ -31,7 +31,7 @@ Details for the next event:
 | Key       | Value           |
 | ------------- |:-------------:|
 | Date:      | Tuesday 7th of April |
-| Location:      | https://www.twitch.tv/ZephrPhish    |
+| Location:      | <a href="https://www.twitch.tv/ZephrPhish">Twitch</a>    |
 | Time: | 6:30pm (lobby open), talks (7pm)     |
 
 
