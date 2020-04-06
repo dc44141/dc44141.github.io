@@ -24,6 +24,8 @@ It is building number 5 on the [campus map](https://www.gcu.ac.uk/theuniversity/
 
 ## Next Event
 
+<!-- Address:  70 Cowcaddens Rd, Glasgow G4 0BA    -->
+
 Details for the next event:
 
 | Key       | Value           |
@@ -31,7 +33,6 @@ Details for the next event:
 | Date:      | Tuesday 7th of April |
 | Location:      | https://www.twitch.tv/ZephrPhish    |
 | Time: | 6:30pm (lobby open), talks (7pm)     |
-<!--; Address: ; 70 Cowcaddens Rd, Glasgow G4 0BA      ;-->
 
 
 We have two talks:
