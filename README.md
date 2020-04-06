@@ -31,7 +31,7 @@ Details for the next event:
 | Date:      | Tuesday 7th of April |
 | Location:      | https://www.twitch.tv/ZephrPhish    |
 | Time: | 6:30pm (lobby open), talks (7pm)     |
-<!--| Address: | 70 Cowcaddens Rd, Glasgow G4 0BA      |-->
+<!--; Address: ; 70 Cowcaddens Rd, Glasgow G4 0BA      ;-->
 
 
 We have two talks:
