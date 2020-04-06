@@ -12,11 +12,19 @@
 
 We are the Glasgow Defcon Chapter, and you are very welcome.
 
+**Temporary Update: Due to COVID-19 lockdown we will temporarily be streaming events. Using twitch:
+
+https://www.twitch.tv/ZephrPhish
+
+**
+
+<!--
 We meet on the **first Tuesday** of every month at the Glasgow Caledonian University (GCU) Student's Association building. The following map shows which building that is in relation to Cowcaddens Road:
 
 <a href="https://raw.githubusercontent.com/dc44141/dc44141.github.io/master/images/map-to-dc44141.png"><img src="images/map-to-dc44141.png" width="350px" alt="Map highlighting Student's Association Building on GCU campus"></a>
 
 It is building number 5 on the [campus map](https://www.gcu.ac.uk/theuniversity/howtofindus/campusmap/). 
+-->
 
 ## Next Event
 
@@ -32,14 +40,10 @@ Details for the next event:
 We have two talks:
 
 Speaker: Andy Gill a.k.a @ZephrFish on Twitter
-
 Topic: Red Teaming Introduction
 
-Summary: tbc
-
-Speaker: Paul Ritchie a.k.a @Cornerpirate on Twitter
-
-Topic: Cross-Site Scripting (XSS)
+Speaker: Paul Morrison a.k.a @InfoSec_Paul_M on Twitter
+Topic: Blue Team: Phishing Detection
 
 Summary: tbc
 
