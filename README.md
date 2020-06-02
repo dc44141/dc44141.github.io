@@ -37,10 +37,10 @@ Details for the next event:
 
 We have two talks:
 
-Speaker: @OSEEC1 on Twitter
+Speaker: <a href="https://www.twitter.com/OSEEC1">@OSEEC1 </a> on Twitter
 Topic: Social Engineering for Introverts
 
-Speaker: @Yekki_1 on Twitter
+Speaker: <a href="https://www.twitter.com/Yekki_1">@Yekki_1 </a> on Twitter
 Topic: Ladder Logic: an introduction on things doing stuff only because nothing else is! 
 
 **If you would like to speak as well then you absolutely can. Ask [@dc44141](https://twitter.com/dc44141). We also accept unannounced talks where you just get up without fanfare and have had a few do it that way in the heat of the moment.**
