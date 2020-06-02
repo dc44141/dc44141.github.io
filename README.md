@@ -30,18 +30,18 @@ Details for the next event:
 
 | Key       | Value           |
 | ------------- |:-------------:|
-| Date:      | Tuesday 7th of April |
+| Date:      | Tuesday 2nd of June |
 | Location:      | <a href="https://www.twitch.tv/ZephrPhish">Twitch</a>    |
 | Time: | 6:30pm (lobby open), talks (7pm)     |
 
 
 We have two talks:
 
-Speaker: Andy Gill a.k.a @ZephrFish on Twitter
-Topic: Red Teaming Introduction
+Speaker: @OSEEC1 on Twitter
+Topic: Social Engineering for Introverts
 
-Speaker: Paul Morrison a.k.a @InfoSec_Paul_M on Twitter
-Topic: Blue Team: Phishing Detection
+Speaker: @Yekki_1 on Twitter
+Topic: Ladder Logic: an introduction on things doing stuff only because nothing else is! 
 
 **If you would like to speak as well then you absolutely can. Ask [@dc44141](https://twitter.com/dc44141). We also accept unannounced talks where you just get up without fanfare and have had a few do it that way in the heat of the moment.**
 
