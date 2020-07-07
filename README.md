@@ -28,18 +28,15 @@ Details for the next event:
 
 | Key       | Value           |
 | ------------- |:-------------:|
-| Date:      | Tuesday 2nd of June |
+| Date:      | Tuesday 7th of July |
 | Location:      | <a href="https://www.twitch.tv/ZephrPhish">Twitch</a>  & <a href="https://twitter.com/DC44141/status/1267286969274556420">Discord</a>   |
 | Time: | 6:30pm (lobby open), talks (7pm)     |
 
 
-We have two talks:
+We have one talk:
 
-Speaker: <a href="https://www.twitter.com/OSEEC1">@OSEEC1 </a> on Twitter
-Topic: Social Engineering for Introverts
-
-Speaker: <a href="https://www.twitter.com/Yekki_1">@Yekki_1 </a> on Twitter
-Topic: Ladder Logic: an introduction on things doing stuff only because nothing else is! 
+Speaker: <a href="https://www.twitter.com/5w0rdFish">@5w0rdFish </a> on Twitter
+Topic: DVR Security Evolution
 
 **If you would like to speak as well then you absolutely can. Ask [@dc44141](https://twitter.com/dc44141). We also accept unannounced talks where you just get up without fanfare and have had a few do it that way in the heat of the moment.**
 
@@ -81,3 +78,7 @@ Yes. Yes you can. The union building does not require an NUS card or anything to
 According to the GCU website the entire campus is wheelchair accessible. I appreciate you might laugh and say "folks always say that and it is big fat lies". To my eyes the building can be approached by a ramp, the door has a level floor for entry, and the event is on the ground floor. 
 
 Stay tuned as we will go on to make a video showing exactly what to expect from getting to the venue in the near future.
+
+### Can I get an Invite to Discord
+
+<iframe src="https://discordapp.com/widget?id=542502576210444300&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
