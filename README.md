@@ -35,7 +35,7 @@ Details for the next event:
 
 We have one talk:
 
-Speaker: <a href="https://www.twitter.com/5w0rdFish">@5w0rdFish </a> on Twitter
+Speaker: <a href="https://www.twitter.com/5w0rdFish">@5w0rdFish </a> on Twitter <br>
 Topic: DVR Security Evolution
 
 **If you would like to speak as well then you absolutely can. Ask [@dc44141](https://twitter.com/dc44141). We also accept unannounced talks where you just get up without fanfare and have had a few do it that way in the heat of the moment.**
