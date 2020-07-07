@@ -79,6 +79,10 @@ According to the GCU website the entire campus is wheelchair accessible. I appre
 
 Stay tuned as we will go on to make a video showing exactly what to expect from getting to the venue in the near future.
 
-### Can I get an Invite to Discord
+### Can I get an Invite to Discord please?
+
+You should be able to join here: 
 
 <iframe src="https://discordapp.com/widget?id=542502576210444300&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+
+If not ping @ZephrFish or @DC44141 on Twitter
