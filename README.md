@@ -28,15 +28,11 @@ Details for the next event:
 
 | Key       | Value           |
 | ------------- |:-------------:|
-| Date:      | Tuesday 7th of July |
+| Date:      | Tuesday 1st of September |
 | Location:      | <a href="https://www.twitch.tv/ZephrPhish">Twitch</a>  & <a href="https://twitter.com/DC44141/status/1267286969274556420">Discord</a>   |
 | Time: | 6:30pm (lobby open), talks (7pm)     |
 
 
-We have one talk:
-
-Speaker: <a href="https://www.twitter.com/5w0rdFish">@5w0rdFish </a> on Twitter <br>
-Topic: DVR Security Evolution
 
 **If you would like to speak as well then you absolutely can. Ask [@dc44141](https://twitter.com/dc44141). We also accept unannounced talks where you just get up without fanfare and have had a few do it that way in the heat of the moment.**
 
