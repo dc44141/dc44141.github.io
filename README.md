@@ -28,7 +28,7 @@ Details for the next event:
 
 | Key       | Value           |
 | ------------- |:-------------:|
-| Date:      | Tuesday 1st of September |
+| Date:      | Tuesday 1st of December |
 | Location:      | <a href="https://www.twitch.tv/ZephrPhish">Twitch</a>  & <a href="https://twitter.com/DC44141/status/1267286969274556420">Discord</a>   |
 | Time: | 6:30pm (lobby open), talks (7pm)     |
 
