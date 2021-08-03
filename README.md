@@ -12,7 +12,7 @@
 
 We are the Glasgow Defcon Chapter, and you are very welcome. 
 
-**Temporary Update: Due to COVID-19 lockdown we will temporarily be streaming events. Using twitch. This is great because it means the wider community can join in.**
+**Temporary Update: Due to COVID-19 lockdown we will temporarily be streaming events. Using Discord.**
 
 <!-- We meet on the **first Tuesday** of every month at the Glasgow Caledonian University (GCU) Student's Association building. The following map shows which building that is in relation to Cowcaddens Road:
 
