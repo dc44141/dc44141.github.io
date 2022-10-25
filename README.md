@@ -28,13 +28,11 @@ Details for the next event:
 
 | Key       | Value           |
 | ------------- |:-------------:|
-| Date:      | Tuesday 3rd of August 2021 |
-| Location:      | <a href="https://twitter.com/DC44141/status/1267286969274556420">Discord</a>   |
+| Date:      | Thursday 1st December 2022 |
+| Location:      | GCU Students Association    |
 | Time: | 6:30pm (lobby open), talks (7pm)     |
 
 # This Month's Talk:
-An introduction to container hacking - Now that containers, Docker and Kubernetes are everywhere, we have to ask the most important question 'how do we hack them!' . This talk will take a look at some of the underpinnings of how these systems work, to give you ideas on where to start and then look at some classic container hacking techniques. - Rory McCune(https://twitter.com/raesene)
-
 **If you would like to speak as well then you absolutely can. Ask [@dc44141](https://twitter.com/dc44141). We also accept unannounced talks where you just get up without fanfare and have had a few do it that way in the heat of the moment.**
 
 ## Ethos 
@@ -58,8 +56,7 @@ If this page does not answer your questions (and please check the FAQ below firs
 
 Also PLEASE help us? We don't know what we are doing. If you want to help you definitely can!
 
-## FAQs - In Person Not happening at the min due to global pandemic!
-
+## FAQs - In Person back this Dec 2022 😊
 ### Is there any food or drink?
 
 The event is entirely free and is not sponsored so there is no food or drink provided. 
