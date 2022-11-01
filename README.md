@@ -47,7 +47,8 @@ It is run by volunteers on a happily chaotic basis. To my knowledge there has ne
 * [@ZephrFish](https://twitter.com/ZephrFish) - Mostly been the face for years if we are honest.
 * [@Rab_Ray](https://twitter.com/Rab_Ray) & [@PMason00](https://twitter.com/PMason00)(You will be missed pal, rest in peace) - Also founding fathers along with ZephrFish.
 * [@cornerpirate](https://twitter.com/cornerpirate) - regular content provider, failing upwards to a bit of organising in 2020 since nobody cared to stop me.
-* [@GCUHacking](https://twitter.com/GCUHacking) - the GCU hacking society who amazingly stepped up to host the event. You legends.
+
+Special thanks to the folks over at GCU Ethical hacking society([@GCUHacking](https://twitter.com/GCUHacking)) who amazingly stepped up to host the event. You legends.
 
 -- note to the editor. If I missed anyone then sorry, my excuse is I wasn't around when DC44141 sparked into existence. 
 
