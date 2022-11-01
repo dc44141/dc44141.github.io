@@ -45,7 +45,7 @@ It is welcoming. The only thing NOT tolerated is intolerance, if you see somethi
 It is run by volunteers on a happily chaotic basis. To my knowledge there has never been a committee meeting or anything. These reprobates are generally involved though:
 
 * [@ZephrFish](https://twitter.com/ZephrFish) - Mostly been the face for years if we are honest.
-* [@PMason00](https://twitter.com/PMason00) & [@Rab_Ray](https://twitter.com/Rab_Ray) - Also founding fathers along with ZephrFish.
+* [@Rab_Ray](https://twitter.com/Rab_Ray) & [@PMason00](https://twitter.com/PMason00)(You will be missed pal, rest in peace) - Also founding fathers along with ZephrFish.
 * [@cornerpirate](https://twitter.com/cornerpirate) - regular content provider, failing upwards to a bit of organising in 2020 since nobody cared to stop me.
 * [@GCUHacking](https://twitter.com/GCUHacking) - the GCU hacking society who amazingly stepped up to host the event. You legends.
 
